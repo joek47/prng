@@ -1,0 +1,2666 @@
+Test 1:
+value 1 = 1f
+value 2 = 33
+value 3 = 36
+value 4 = 5a
+value 5 = 7c
+value 6 = 62
+value 7 = 55
+value 8 = c6
+value 9 = 6f
+value 10 = af
+value 11 = 35
+value 12 = 85
+value 13 = 6c
+value 14 = f1
+value 15 = 66
+value 16 = 38
+value 17 = 45
+value 18 = a0
+value 19 = a9
+value 20 = 09
+value 21 = 68
+value 22 = f4
+value 23 = 1a
+value 24 = 94
+value 25 = 9d
+value 26 = 23
+value 27 = 36
+duplicate 36 found at value 3
+Test 1 - number of tries: 27
+==========
+Test 2:
+value 1 = d5
+value 2 = 47
+value 3 = 00
+value 4 = ac
+value 5 = 22
+value 6 = 31
+value 7 = 27
+value 8 = 11
+value 9 = ad
+value 10 = 94
+value 11 = 85
+value 12 = 0c
+value 13 = 36
+value 14 = a8
+value 15 = 5e
+value 16 = 69
+value 17 = 10
+value 18 = 57
+value 19 = d2
+value 20 = 8a
+value 21 = f9
+value 22 = 0e
+value 23 = a5
+value 24 = 2d
+value 25 = ca
+value 26 = 22
+duplicate 22 found at value 5
+Test 2 - number of tries: 26
+==========
+Test 3:
+value 1 = 06
+value 2 = f2
+value 3 = 5b
+value 4 = 32
+value 5 = 68
+value 6 = 4c
+value 7 = a5
+value 8 = c7
+value 9 = cb
+value 10 = e6
+value 11 = 12
+value 12 = dd
+value 13 = 74
+value 14 = 84
+value 15 = 0b
+value 16 = 4a
+value 17 = f1
+value 18 = 12
+duplicate 12 found at value 11
+Test 3 - number of tries: 18
+==========
+Test 4:
+value 1 = 13
+value 2 = 12
+value 3 = f3
+value 4 = 35
+value 5 = 68
+value 6 = 5e
+value 7 = 2c
+value 8 = 4b
+value 9 = 55
+value 10 = e6
+value 11 = a8
+value 12 = a5
+value 13 = 11
+value 14 = d2
+value 15 = e4
+value 16 = 7b
+value 17 = 38
+value 18 = f9
+value 19 = 8e
+value 20 = 2c
+duplicate 2c found at value 7
+Test 4 - number of tries: 20
+==========
+Test 5:
+value 1 = 1c
+value 2 = 6a
+value 3 = 8c
+value 4 = fa
+value 5 = ae
+value 6 = be
+value 7 = 98
+value 8 = 61
+value 9 = 1f
+value 10 = a8
+value 11 = db
+value 12 = e8
+value 13 = a4
+value 14 = 01
+value 15 = 1a
+value 16 = bb
+value 17 = c9
+value 18 = 5b
+value 19 = 28
+value 20 = b0
+value 21 = 3f
+value 22 = 46
+value 23 = b5
+value 24 = 03
+value 25 = 52
+value 26 = ab
+value 27 = 90
+value 28 = b9
+value 29 = 72
+value 30 = 1c
+duplicate 1c found at value 1
+Test 5 - number of tries: 30
+==========
+Test 6:
+value 1 = 3a
+value 2 = 07
+value 3 = bb
+value 4 = 64
+value 5 = a1
+value 6 = 9e
+value 7 = a7
+value 8 = e0
+value 9 = e5
+value 10 = 03
+value 11 = 63
+value 12 = 39
+value 13 = a4
+value 14 = e1
+value 15 = e4
+value 16 = b0
+value 17 = 93
+value 18 = 9d
+value 19 = 67
+value 20 = 45
+value 21 = f8
+value 22 = ca
+value 23 = 2a
+value 24 = ba
+value 25 = 50
+value 26 = e6
+value 27 = 7d
+value 28 = 65
+value 29 = a5
+value 30 = c7
+value 31 = 58
+value 32 = 86
+value 33 = 5b
+value 34 = 84
+value 35 = 28
+value 36 = 77
+value 37 = 64
+duplicate 64 found at value 4
+Test 6 - number of tries: 37
+==========
+Test 7:
+value 1 = 14
+value 2 = e7
+value 3 = ed
+value 4 = fd
+value 5 = 7d
+value 6 = 1c
+value 7 = 8d
+value 8 = bb
+value 9 = 65
+value 10 = 04
+value 11 = 2a
+value 12 = 4a
+value 13 = c2
+value 14 = 0d
+value 15 = 28
+value 16 = fc
+value 17 = f5
+value 18 = 97
+value 19 = 44
+value 20 = 1b
+value 21 = 63
+value 22 = ef
+value 23 = eb
+value 24 = db
+value 25 = 60
+value 26 = c6
+value 27 = 1d
+value 28 = 4b
+value 29 = bd
+value 30 = ac
+value 31 = 93
+value 32 = 67
+value 33 = bb
+duplicate bb found at value 8
+Test 7 - number of tries: 33
+==========
+Test 8:
+value 1 = ab
+value 2 = 03
+value 3 = 6f
+value 4 = 52
+value 5 = 13
+value 6 = 4d
+value 7 = d7
+value 8 = 03
+duplicate 03 found at value 2
+Test 8 - number of tries: 8
+==========
+Test 9:
+value 1 = 2c
+value 2 = 81
+value 3 = fe
+value 4 = ea
+value 5 = 08
+value 6 = 0c
+value 7 = 3a
+value 8 = e9
+value 9 = 71
+value 10 = 19
+value 11 = 7d
+value 12 = 46
+value 13 = e0
+value 14 = 78
+value 15 = 74
+value 16 = d6
+value 17 = 63
+value 18 = 40
+value 19 = 10
+value 20 = d3
+value 21 = f1
+value 22 = d4
+value 23 = 26
+value 24 = 2b
+value 25 = c1
+value 26 = 2d
+value 27 = 8f
+value 28 = 6d
+value 29 = 7c
+value 30 = 2e
+value 31 = 88
+value 32 = c5
+value 33 = 05
+value 34 = 9f
+value 35 = 49
+value 36 = 8d
+value 37 = 5d
+value 38 = 0a
+value 39 = bd
+value 40 = f5
+value 41 = d1
+value 42 = ac
+value 43 = 2a
+value 44 = db
+value 45 = 50
+value 46 = 05
+duplicate 05 found at value 33
+Test 9 - number of tries: 46
+==========
+Test 10:
+value 1 = 25
+value 2 = ef
+value 3 = 6b
+value 4 = d0
+value 5 = e2
+value 6 = d4
+value 7 = f8
+value 8 = 81
+value 9 = f9
+value 10 = 28
+value 11 = 1e
+value 12 = 6f
+value 13 = 88
+value 14 = 97
+value 15 = 25
+duplicate 25 found at value 1
+Test 10 - number of tries: 15
+==========
+Test 11:
+value 1 = 8a
+value 2 = 9b
+value 3 = 5c
+value 4 = ac
+value 5 = 9a
+value 6 = 04
+value 7 = 2e
+value 8 = a2
+value 9 = e3
+value 10 = 30
+value 11 = ef
+value 12 = cb
+value 13 = c9
+value 14 = d3
+value 15 = 49
+value 16 = 6b
+value 17 = 6e
+value 18 = 4c
+value 19 = eb
+value 20 = 6b
+duplicate 6b found at value 16
+Test 11 - number of tries: 20
+==========
+Test 12:
+value 1 = 81
+value 2 = a1
+value 3 = 1f
+value 4 = 93
+value 5 = 80
+value 6 = 90
+value 7 = d7
+value 8 = df
+value 9 = 93
+duplicate 93 found at value 4
+Test 12 - number of tries: 9
+==========
+Test 13:
+value 1 = fb
+value 2 = e7
+value 3 = f2
+value 4 = 12
+value 5 = ab
+value 6 = 84
+value 7 = 5e
+value 8 = 02
+value 9 = d6
+value 10 = 89
+value 11 = b1
+value 12 = 79
+value 13 = db
+value 14 = f6
+value 15 = 06
+value 16 = 49
+value 17 = 1d
+value 18 = 52
+value 19 = 48
+value 20 = 39
+value 21 = 4e
+value 22 = 02
+duplicate 02 found at value 8
+Test 13 - number of tries: 22
+==========
+Test 14:
+value 1 = c6
+value 2 = 40
+value 3 = c4
+value 4 = b5
+value 5 = 46
+value 6 = 4d
+value 7 = ea
+value 8 = 23
+value 9 = fa
+value 10 = a3
+value 11 = fc
+value 12 = 30
+value 13 = 8c
+value 14 = 6e
+value 15 = 21
+value 16 = 97
+value 17 = 3e
+value 18 = 85
+value 19 = fc
+duplicate fc found at value 11
+Test 14 - number of tries: 19
+==========
+Test 15:
+value 1 = 20
+value 2 = 83
+value 3 = fb
+value 4 = e5
+value 5 = 92
+value 6 = 09
+value 7 = 45
+value 8 = 35
+value 9 = 67
+value 10 = ec
+value 11 = ed
+value 12 = 86
+value 13 = b8
+value 14 = fc
+value 15 = f5
+value 16 = f1
+value 17 = d5
+value 18 = 51
+value 19 = 64
+value 20 = 25
+value 21 = 05
+value 22 = eb
+value 23 = 58
+value 24 = c3
+value 25 = 79
+value 26 = dd
+value 27 = 96
+value 28 = 8c
+value 29 = e4
+value 30 = b2
+value 31 = 38
+value 32 = f6
+value 33 = 78
+value 34 = 74
+value 35 = 98
+value 36 = b9
+value 37 = 77
+value 38 = 9d
+value 39 = b6
+value 40 = 26
+value 41 = 67
+duplicate 67 found at value 9
+Test 15 - number of tries: 41
+==========
+Test 16:
+value 1 = 73
+value 2 = 89
+value 3 = c1
+value 4 = d6
+value 5 = 32
+value 6 = d0
+value 7 = 1c
+value 8 = 51
+value 9 = a4
+value 10 = eb
+value 11 = 18
+value 12 = 03
+value 13 = fa
+value 14 = 19
+value 15 = 54
+value 16 = 32
+duplicate 32 found at value 5
+Test 16 - number of tries: 16
+==========
+Test 17:
+value 1 = d9
+value 2 = 8f
+value 3 = a6
+value 4 = e8
+value 5 = ab
+value 6 = 0d
+value 7 = 82
+value 8 = 96
+value 9 = 5a
+value 10 = f7
+value 11 = 33
+value 12 = aa
+value 13 = 9d
+value 14 = ea
+value 15 = d2
+value 16 = a4
+value 17 = 8d
+value 18 = 02
+value 19 = 54
+value 20 = 60
+value 21 = 7e
+value 22 = b6
+value 23 = 63
+value 24 = 39
+value 25 = d1
+value 26 = 4d
+value 27 = 1d
+value 28 = cb
+value 29 = 99
+value 30 = 37
+value 31 = 73
+value 32 = 8b
+value 33 = 68
+value 34 = 76
+value 35 = e3
+value 36 = fc
+value 37 = 91
+value 38 = 08
+value 39 = 1b
+value 40 = 20
+value 41 = 25
+value 42 = 13
+value 43 = 29
+value 44 = c4
+value 45 = 13
+duplicate 13 found at value 42
+Test 17 - number of tries: 45
+==========
+Test 18:
+value 1 = 17
+value 2 = d6
+value 3 = 1b
+value 4 = 6f
+value 5 = 0e
+value 6 = c1
+value 7 = b6
+value 8 = 3f
+value 9 = e8
+value 10 = e6
+value 11 = 55
+value 12 = 3d
+value 13 = da
+value 14 = c6
+value 15 = 78
+value 16 = df
+value 17 = 0d
+value 18 = 88
+value 19 = 93
+value 20 = a6
+value 21 = 74
+value 22 = c2
+value 23 = 03
+value 24 = fb
+value 25 = 35
+value 26 = ca
+value 27 = c0
+value 28 = b8
+value 29 = 07
+value 30 = eb
+value 31 = 36
+value 32 = 53
+value 33 = 74
+duplicate 74 found at value 21
+Test 18 - number of tries: 33
+==========
+Test 19:
+value 1 = 71
+value 2 = fe
+value 3 = 32
+value 4 = 65
+value 5 = 36
+value 6 = b1
+value 7 = f0
+value 8 = 41
+value 9 = 1d
+value 10 = 70
+value 11 = 60
+value 12 = fd
+value 13 = 63
+value 14 = 9c
+value 15 = 66
+value 16 = 9f
+value 17 = 2a
+value 18 = 51
+value 19 = 11
+value 20 = 60
+duplicate 60 found at value 11
+Test 19 - number of tries: 20
+==========
+Test 20:
+value 1 = 65
+value 2 = b4
+value 3 = 27
+value 4 = 2b
+value 5 = 5e
+value 6 = 7a
+value 7 = 63
+value 8 = 24
+value 9 = 79
+value 10 = 8d
+value 11 = 0d
+value 12 = 96
+value 13 = 45
+value 14 = 0e
+value 15 = 58
+value 16 = 38
+value 17 = 40
+value 18 = 84
+value 19 = 30
+value 20 = 11
+value 21 = 01
+value 22 = bc
+value 23 = 9e
+value 24 = 1b
+value 25 = fe
+value 26 = 50
+value 27 = 31
+value 28 = 76
+value 29 = fd
+value 30 = a2
+value 31 = 00
+value 32 = d6
+value 33 = cb
+value 34 = ec
+value 35 = d3
+value 36 = 75
+value 37 = ba
+value 38 = 10
+value 39 = b2
+value 40 = 4a
+value 41 = dc
+value 42 = 91
+value 43 = 08
+value 44 = 64
+value 45 = 0f
+value 46 = d4
+value 47 = 54
+value 48 = 8b
+value 49 = 26
+value 50 = 82
+value 51 = 6d
+value 52 = 8c
+value 53 = 69
+value 54 = 85
+value 55 = 6c
+value 56 = c9
+value 57 = 84
+duplicate 84 found at value 18
+Test 20 - number of tries: 57
+==========
+Test 21:
+value 1 = 9b
+value 2 = a2
+value 3 = f3
+value 4 = 0a
+value 5 = d3
+value 6 = 0f
+value 7 = 36
+value 8 = 49
+value 9 = 44
+value 10 = e6
+value 11 = 60
+value 12 = ef
+value 13 = 89
+value 14 = 07
+value 15 = c4
+value 16 = 81
+value 17 = 93
+value 18 = ae
+value 19 = 03
+value 20 = 08
+value 21 = 88
+value 22 = f3
+duplicate f3 found at value 3
+Test 21 - number of tries: 22
+==========
+Test 22:
+value 1 = af
+value 2 = cf
+value 3 = 7e
+value 4 = c5
+value 5 = d3
+value 6 = 0c
+value 7 = ac
+value 8 = 11
+value 9 = e9
+value 10 = 7c
+value 11 = e5
+value 12 = 6e
+value 13 = e9
+duplicate e9 found at value 9
+Test 22 - number of tries: 13
+==========
+Test 23:
+value 1 = bb
+value 2 = f8
+value 3 = ef
+value 4 = 6f
+value 5 = 0f
+value 6 = 8c
+value 7 = ad
+value 8 = 66
+value 9 = 48
+value 10 = 14
+value 11 = 12
+value 12 = fb
+value 13 = 8f
+value 14 = fb
+duplicate fb found at value 12
+Test 23 - number of tries: 14
+==========
+Test 24:
+value 1 = db
+value 2 = e3
+value 3 = 65
+value 4 = 9a
+value 5 = 1c
+value 6 = c4
+value 7 = ed
+value 8 = 20
+value 9 = 48
+value 10 = 38
+value 11 = 46
+value 12 = e6
+value 13 = 6f
+value 14 = 8a
+value 15 = 41
+value 16 = 28
+value 17 = 7a
+value 18 = 15
+value 19 = 5a
+value 20 = 3e
+value 21 = d6
+value 22 = 05
+value 23 = 44
+value 24 = 69
+value 25 = 09
+value 26 = 16
+value 27 = 17
+value 28 = 90
+value 29 = 7c
+value 30 = 09
+duplicate 09 found at value 25
+Test 24 - number of tries: 30
+==========
+Test 25:
+value 1 = c2
+value 2 = b4
+value 3 = b7
+value 4 = 89
+value 5 = 83
+value 6 = 16
+value 7 = fd
+value 8 = 90
+value 9 = f0
+value 10 = 37
+value 11 = 00
+value 12 = f6
+value 13 = 0d
+value 14 = 40
+value 15 = d0
+value 16 = b0
+value 17 = 2e
+value 18 = 88
+value 19 = db
+value 20 = 74
+value 21 = f5
+value 22 = a2
+value 23 = cc
+value 24 = b9
+value 25 = c4
+value 26 = d5
+value 27 = da
+value 28 = 16
+duplicate 16 found at value 6
+Test 25 - number of tries: 28
+==========
+Test 26:
+value 1 = ea
+value 2 = e8
+value 3 = 91
+value 4 = 7c
+value 5 = a6
+value 6 = 3f
+value 7 = 99
+value 8 = 52
+value 9 = 40
+value 10 = e4
+value 11 = a4
+value 12 = 66
+value 13 = 23
+value 14 = d7
+value 15 = a3
+value 16 = 92
+value 17 = 6d
+value 18 = 27
+value 19 = bd
+value 20 = 4b
+value 21 = b0
+value 22 = 5c
+value 23 = 67
+value 24 = 67
+duplicate 67 found at value 23
+Test 26 - number of tries: 24
+==========
+Test 27:
+value 1 = 5c
+value 2 = 36
+value 3 = db
+value 4 = d2
+value 5 = f3
+value 6 = 27
+value 7 = 3c
+value 8 = 7e
+value 9 = 9f
+value 10 = 71
+value 11 = 5f
+value 12 = 2d
+value 13 = a6
+value 14 = c7
+value 15 = 69
+value 16 = 82
+value 17 = 0b
+value 18 = ba
+value 19 = cc
+value 20 = 8c
+value 21 = 1f
+value 22 = 2e
+value 23 = db
+duplicate db found at value 3
+Test 27 - number of tries: 23
+==========
+Test 28:
+value 1 = c6
+value 2 = f5
+value 3 = 71
+value 4 = 12
+value 5 = ed
+value 6 = 95
+value 7 = e3
+value 8 = 49
+value 9 = 06
+value 10 = e0
+value 11 = 03
+value 12 = a6
+value 13 = bd
+value 14 = 59
+value 15 = 3c
+value 16 = d8
+value 17 = b7
+value 18 = 1d
+value 19 = 66
+value 20 = 07
+value 21 = 61
+value 22 = e6
+value 23 = b1
+value 24 = 33
+value 25 = 51
+value 26 = 93
+value 27 = 9b
+value 28 = 68
+value 29 = 8f
+value 30 = af
+value 31 = ab
+value 32 = 1e
+value 33 = e1
+value 34 = d1
+value 35 = 0e
+value 36 = f4
+value 37 = 5c
+value 38 = 3b
+value 39 = 11
+value 40 = a8
+value 41 = a2
+value 42 = fb
+value 43 = 24
+value 44 = 41
+value 45 = f3
+value 46 = 87
+value 47 = 6d
+value 48 = 74
+value 49 = be
+value 50 = bc
+value 51 = c8
+value 52 = ac
+value 53 = c5
+value 54 = 7a
+value 55 = a7
+value 56 = 33
+duplicate 33 found at value 24
+Test 28 - number of tries: 56
+==========
+Test 29:
+value 1 = 2c
+value 2 = 40
+value 3 = 70
+value 4 = b0
+value 5 = ab
+value 6 = e2
+value 7 = 44
+value 8 = 2c
+duplicate 2c found at value 1
+Test 29 - number of tries: 8
+==========
+Test 30:
+value 1 = dd
+value 2 = 0a
+value 3 = 7e
+value 4 = 80
+value 5 = 31
+value 6 = bd
+value 7 = 33
+value 8 = 95
+value 9 = b4
+value 10 = 5d
+value 11 = 58
+value 12 = 0e
+value 13 = c2
+value 14 = 94
+value 15 = e7
+value 16 = dd
+duplicate dd found at value 1
+Test 30 - number of tries: 16
+==========
+Test 31:
+value 1 = 4d
+value 2 = 87
+value 3 = da
+value 4 = 29
+value 5 = f7
+value 6 = 61
+value 7 = 73
+value 8 = 02
+value 9 = 39
+value 10 = 36
+value 11 = 87
+duplicate 87 found at value 2
+Test 31 - number of tries: 11
+==========
+Test 32:
+value 1 = 70
+value 2 = 6f
+value 3 = 61
+value 4 = f0
+value 5 = d4
+value 6 = a9
+value 7 = 94
+value 8 = 01
+value 9 = 52
+value 10 = a2
+value 11 = 55
+value 12 = a7
+value 13 = 39
+value 14 = 9f
+value 15 = 0e
+value 16 = 16
+value 17 = 15
+value 18 = 3e
+value 19 = a4
+value 20 = 3e
+duplicate 3e found at value 18
+Test 32 - number of tries: 20
+==========
+Test 33:
+value 1 = 4e
+value 2 = a7
+value 3 = a5
+value 4 = 3e
+value 5 = ce
+value 6 = 3e
+duplicate 3e found at value 4
+Test 33 - number of tries: 6
+==========
+Test 34:
+value 1 = 3a
+value 2 = 72
+value 3 = 96
+value 4 = b5
+value 5 = 64
+value 6 = 8f
+value 7 = d4
+value 8 = 2a
+value 9 = b8
+value 10 = a4
+value 11 = 28
+value 12 = 91
+value 13 = 7b
+value 14 = fd
+value 15 = c7
+value 16 = eb
+value 17 = f0
+value 18 = 43
+value 19 = 7a
+value 20 = d8
+value 21 = 7d
+value 22 = d5
+value 23 = 34
+value 24 = 51
+value 25 = 77
+value 26 = 99
+value 27 = 4c
+value 28 = 0d
+value 29 = 8b
+value 30 = 94
+value 31 = 6a
+value 32 = 19
+value 33 = 6e
+value 34 = f7
+value 35 = 5a
+value 36 = a3
+value 37 = db
+value 38 = b0
+value 39 = 41
+value 40 = 3c
+value 41 = 7e
+value 42 = 60
+value 43 = d1
+value 44 = bf
+value 45 = f3
+value 46 = b9
+value 47 = af
+value 48 = 2a
+duplicate 2a found at value 8
+Test 34 - number of tries: 48
+==========
+Test 35:
+value 1 = a8
+value 2 = 8a
+value 3 = 1d
+value 4 = c4
+value 5 = 05
+value 6 = 95
+value 7 = d9
+value 8 = a8
+duplicate a8 found at value 1
+Test 35 - number of tries: 8
+==========
+Test 36:
+value 1 = c3
+value 2 = e0
+value 3 = d3
+value 4 = 60
+value 5 = ab
+value 6 = bc
+value 7 = 52
+value 8 = 65
+value 9 = 1b
+value 10 = ea
+value 11 = d0
+value 12 = a9
+value 13 = 6e
+value 14 = 49
+value 15 = e5
+value 16 = 49
+duplicate 49 found at value 14
+Test 36 - number of tries: 16
+==========
+Test 37:
+value 1 = 0d
+value 2 = 90
+value 3 = 21
+value 4 = bb
+value 5 = 79
+value 6 = 61
+value 7 = 00
+value 8 = 7b
+value 9 = 85
+value 10 = 2a
+value 11 = 1d
+value 12 = 47
+value 13 = fa
+value 14 = d4
+value 15 = 7c
+value 16 = 5a
+value 17 = 39
+value 18 = 36
+value 19 = 62
+value 20 = 8b
+value 21 = 07
+value 22 = 41
+value 23 = 15
+value 24 = 8c
+value 25 = e5
+value 26 = 13
+value 27 = 98
+value 28 = 2a
+duplicate 2a found at value 10
+Test 37 - number of tries: 28
+==========
+Test 38:
+value 1 = b6
+value 2 = cf
+value 3 = 64
+value 4 = a9
+value 5 = 9a
+value 6 = 3b
+value 7 = 97
+value 8 = 4b
+value 9 = c9
+value 10 = 48
+value 11 = a3
+value 12 = fb
+value 13 = 9c
+value 14 = a4
+value 15 = e7
+value 16 = 17
+value 17 = 75
+value 18 = df
+value 19 = a8
+value 20 = f1
+value 21 = 3e
+value 22 = 15
+value 23 = 38
+value 24 = 1c
+value 25 = 7f
+value 26 = f8
+value 27 = a0
+value 28 = 91
+value 29 = 72
+value 30 = ea
+value 31 = b8
+value 32 = fe
+value 33 = f6
+value 34 = 34
+value 35 = 49
+value 36 = bb
+value 37 = 44
+value 38 = 3c
+value 39 = af
+value 40 = 3f
+value 41 = ba
+value 42 = 87
+value 43 = d6
+value 44 = 03
+value 45 = 20
+value 46 = c7
+value 47 = 62
+value 48 = 11
+value 49 = 03
+duplicate 03 found at value 44
+Test 38 - number of tries: 49
+==========
+Test 39:
+value 1 = b1
+value 2 = a9
+value 3 = 20
+value 4 = 78
+value 5 = dc
+value 6 = 02
+value 7 = 56
+value 8 = 29
+value 9 = 4d
+value 10 = 4c
+value 11 = ee
+value 12 = 83
+value 13 = 16
+value 14 = 55
+value 15 = 5c
+value 16 = 42
+value 17 = 14
+value 18 = e4
+value 19 = 27
+value 20 = db
+value 21 = 2c
+value 22 = 17
+value 23 = a8
+value 24 = 9b
+value 25 = 65
+value 26 = e7
+value 27 = 54
+value 28 = 09
+value 29 = e9
+value 30 = d4
+value 31 = 42
+duplicate 42 found at value 16
+Test 39 - number of tries: 31
+==========
+Test 40:
+value 1 = 03
+value 2 = a0
+value 3 = 61
+value 4 = 20
+value 5 = 1b
+value 6 = cd
+value 7 = 1c
+value 8 = d2
+value 9 = e4
+value 10 = 41
+value 11 = de
+value 12 = 5e
+value 13 = f4
+value 14 = 33
+value 15 = b6
+value 16 = f8
+value 17 = b8
+value 18 = 78
+value 19 = 56
+value 20 = e5
+value 21 = 5f
+value 22 = b0
+value 23 = 3a
+value 24 = 86
+value 25 = 9c
+value 26 = fb
+value 27 = 48
+value 28 = 8e
+value 29 = 6f
+value 30 = d4
+value 31 = 3d
+value 32 = a0
+duplicate a0 found at value 2
+Test 40 - number of tries: 32
+==========
+Test 41:
+value 1 = d8
+value 2 = 0f
+value 3 = 78
+value 4 = ef
+value 5 = f6
+value 6 = 3d
+value 7 = f2
+value 8 = df
+value 9 = 4a
+value 10 = 59
+value 11 = 46
+value 12 = 43
+value 13 = 5a
+value 14 = 8f
+value 15 = d4
+value 16 = 10
+value 17 = d3
+value 18 = 14
+value 19 = d1
+value 20 = 2e
+value 21 = f9
+value 22 = 49
+value 23 = c6
+value 24 = c9
+value 25 = 5e
+value 26 = 3f
+value 27 = 55
+value 28 = 27
+value 29 = 54
+value 30 = 2e
+duplicate 2e found at value 20
+Test 41 - number of tries: 30
+==========
+Test 42:
+value 1 = c0
+value 2 = 51
+value 3 = 9f
+value 4 = 3f
+value 5 = 93
+value 6 = ee
+value 7 = 09
+value 8 = 55
+value 9 = b2
+value 10 = 75
+value 11 = 4b
+value 12 = ec
+value 13 = c5
+value 14 = b6
+value 15 = d5
+value 16 = 23
+value 17 = 49
+value 18 = 9d
+value 19 = e6
+value 20 = d1
+value 21 = dd
+value 22 = 4e
+value 23 = ea
+value 24 = 76
+value 25 = 2c
+value 26 = a3
+value 27 = a9
+value 28 = 75
+duplicate 75 found at value 10
+Test 42 - number of tries: 28
+==========
+Test 43:
+value 1 = f5
+value 2 = 51
+value 3 = 66
+value 4 = 41
+value 5 = 37
+value 6 = ee
+value 7 = c0
+value 8 = 2f
+value 9 = e0
+value 10 = 6f
+value 11 = da
+value 12 = ab
+value 13 = ce
+value 14 = af
+value 15 = dd
+value 16 = 6c
+value 17 = d2
+value 18 = 49
+value 19 = 65
+value 20 = c8
+value 21 = d5
+value 22 = da
+duplicate da found at value 11
+Test 43 - number of tries: 22
+==========
+Test 44:
+value 1 = 3e
+value 2 = cf
+value 3 = e2
+value 4 = 0d
+value 5 = 13
+value 6 = 54
+value 7 = 62
+value 8 = 49
+value 9 = d6
+value 10 = b3
+value 11 = 3c
+value 12 = 2f
+value 13 = 98
+value 14 = 8e
+value 15 = da
+value 16 = 4d
+value 17 = 75
+value 18 = 1f
+value 19 = 82
+value 20 = 8f
+value 21 = c9
+value 22 = 58
+value 23 = 92
+value 24 = 08
+value 25 = fd
+value 26 = 25
+value 27 = 81
+value 28 = ac
+value 29 = fc
+value 30 = 74
+value 31 = c2
+value 32 = 8d
+value 33 = ab
+value 34 = 7b
+value 35 = 00
+value 36 = f8
+value 37 = 25
+duplicate 25 found at value 26
+Test 44 - number of tries: 37
+==========
+Test 45:
+value 1 = b0
+value 2 = 60
+value 3 = 3d
+value 4 = 32
+value 5 = 45
+value 6 = a0
+value 7 = 1f
+value 8 = 34
+value 9 = c0
+value 10 = 4a
+value 11 = ff
+value 12 = af
+value 13 = 94
+value 14 = 18
+value 15 = 92
+value 16 = 39
+value 17 = 74
+value 18 = 9f
+value 19 = 63
+value 20 = 44
+value 21 = ee
+value 22 = c9
+value 23 = 41
+value 24 = b5
+value 25 = b8
+value 26 = d1
+value 27 = fb
+value 28 = fb
+duplicate fb found at value 27
+Test 45 - number of tries: 28
+==========
+Test 46:
+value 1 = 6f
+value 2 = 2b
+value 3 = 20
+value 4 = 78
+value 5 = bf
+value 6 = 51
+value 7 = 71
+value 8 = 66
+value 9 = b9
+value 10 = 1e
+value 11 = 82
+value 12 = cb
+value 13 = d4
+value 14 = b4
+value 15 = fa
+value 16 = c2
+value 17 = 88
+value 18 = 92
+value 19 = 01
+value 20 = 15
+value 21 = 22
+value 22 = 0b
+value 23 = f3
+value 24 = 5f
+value 25 = f6
+value 26 = 0a
+value 27 = 4f
+value 28 = 06
+value 29 = 2a
+value 30 = b0
+value 31 = e1
+value 32 = f6
+duplicate f6 found at value 25
+Test 46 - number of tries: 32
+==========
+Test 47:
+value 1 = fd
+value 2 = 13
+value 3 = e9
+value 4 = 88
+value 5 = 63
+value 6 = fe
+value 7 = 80
+value 8 = f0
+value 9 = b3
+value 10 = 41
+value 11 = b7
+value 12 = f0
+duplicate f0 found at value 8
+Test 47 - number of tries: 12
+==========
+Test 48:
+value 1 = 12
+value 2 = 4e
+value 3 = 7e
+value 4 = 03
+value 5 = c7
+value 6 = 14
+value 7 = a9
+value 8 = 7b
+value 9 = d0
+value 10 = 80
+value 11 = 54
+value 12 = b5
+value 13 = f9
+value 14 = d7
+value 15 = e8
+value 16 = 61
+value 17 = fc
+value 18 = 21
+value 19 = 81
+value 20 = d7
+duplicate d7 found at value 14
+Test 48 - number of tries: 20
+==========
+Test 49:
+value 1 = 16
+value 2 = 01
+value 3 = fd
+value 4 = de
+value 5 = 50
+value 6 = 91
+value 7 = 0d
+value 8 = db
+value 9 = b3
+value 10 = 1f
+value 11 = 9a
+value 12 = 0a
+value 13 = 02
+value 14 = b0
+value 15 = ce
+value 16 = 12
+value 17 = 55
+value 18 = c5
+value 19 = 7b
+value 20 = 8a
+value 21 = 94
+value 22 = a9
+value 23 = c8
+value 24 = 4b
+value 25 = 13
+value 26 = 4a
+value 27 = b8
+value 28 = 11
+value 29 = dd
+value 30 = f5
+value 31 = bb
+value 32 = 51
+value 33 = 1d
+value 34 = 7a
+value 35 = 3f
+value 36 = 09
+value 37 = 23
+value 38 = f3
+value 39 = 6c
+value 40 = e4
+value 41 = b7
+value 42 = d9
+value 43 = ad
+value 44 = e8
+value 45 = c7
+value 46 = 49
+value 47 = 6f
+value 48 = 68
+value 49 = 3c
+value 50 = c5
+duplicate c5 found at value 18
+Test 49 - number of tries: 50
+==========
+Test 50:
+value 1 = 98
+value 2 = 8c
+value 3 = 4a
+value 4 = e4
+value 5 = 1b
+value 6 = 80
+value 7 = 20
+value 8 = ca
+value 9 = 73
+value 10 = 86
+value 11 = 56
+value 12 = fb
+value 13 = d7
+value 14 = a5
+value 15 = ac
+value 16 = 06
+value 17 = 23
+value 18 = 1f
+value 19 = 88
+value 20 = 6f
+value 21 = 16
+value 22 = 79
+value 23 = 7e
+value 24 = 2c
+value 25 = 80
+duplicate 80 found at value 6
+Test 50 - number of tries: 25
+==========
+Test 51:
+value 1 = 0e
+value 2 = 48
+value 3 = f4
+value 4 = b0
+value 5 = 66
+value 6 = 24
+value 7 = f8
+value 8 = 4c
+value 9 = bd
+value 10 = 31
+value 11 = b4
+value 12 = bf
+value 13 = 0e
+duplicate 0e found at value 1
+Test 51 - number of tries: 13
+==========
+Test 52:
+value 1 = 24
+value 2 = d1
+value 3 = f9
+value 4 = f8
+value 5 = d2
+value 6 = 9b
+value 7 = fc
+value 8 = 4b
+value 9 = 3b
+value 10 = 37
+value 11 = 42
+value 12 = 93
+value 13 = bf
+value 14 = 37
+duplicate 37 found at value 10
+Test 52 - number of tries: 14
+==========
+Test 53:
+value 1 = 47
+value 2 = 28
+value 3 = 0a
+value 4 = 27
+value 5 = 85
+value 6 = c0
+value 7 = 2e
+value 8 = 6b
+value 9 = 94
+value 10 = 52
+value 11 = 85
+duplicate 85 found at value 5
+Test 53 - number of tries: 11
+==========
+Test 54:
+value 1 = f8
+value 2 = bb
+value 3 = 7d
+value 4 = b9
+value 5 = f3
+value 6 = 64
+value 7 = d0
+value 8 = d6
+value 9 = c8
+value 10 = 1f
+value 11 = 6b
+value 12 = 6a
+value 13 = 0c
+value 14 = 3a
+value 15 = f3
+duplicate f3 found at value 5
+Test 54 - number of tries: 15
+==========
+Test 55:
+value 1 = 8c
+value 2 = 64
+value 3 = e7
+value 4 = 52
+value 5 = f7
+value 6 = 0f
+value 7 = 58
+value 8 = 89
+value 9 = 0a
+value 10 = e0
+value 11 = 81
+value 12 = 2c
+value 13 = bd
+value 14 = e8
+value 15 = a1
+value 16 = 2a
+value 17 = b0
+value 18 = 79
+value 19 = ec
+value 20 = 81
+duplicate 81 found at value 11
+Test 55 - number of tries: 20
+==========
+Test 56:
+value 1 = 41
+value 2 = 27
+value 3 = ed
+value 4 = 01
+value 5 = 43
+value 6 = 76
+value 7 = 1a
+value 8 = 3d
+value 9 = 13
+value 10 = 1c
+value 11 = 54
+value 12 = 77
+value 13 = fa
+value 14 = 5f
+value 15 = 60
+value 16 = fa
+duplicate fa found at value 13
+Test 56 - number of tries: 16
+==========
+Test 57:
+value 1 = c0
+value 2 = 85
+value 3 = d4
+value 4 = da
+value 5 = 91
+value 6 = d3
+value 7 = 74
+value 8 = bf
+value 9 = b1
+value 10 = 6c
+value 11 = 1a
+value 12 = e3
+value 13 = 4e
+value 14 = 13
+value 15 = f0
+value 16 = f7
+value 17 = 12
+value 18 = 1a
+duplicate 1a found at value 11
+Test 57 - number of tries: 18
+==========
+Test 58:
+value 1 = ea
+value 2 = da
+value 3 = 1d
+value 4 = 8a
+value 5 = 84
+value 6 = 17
+value 7 = 1c
+value 8 = d4
+value 9 = 9b
+value 10 = 90
+value 11 = 60
+value 12 = ea
+duplicate ea found at value 1
+Test 58 - number of tries: 12
+==========
+Test 59:
+value 1 = 85
+value 2 = b4
+value 3 = be
+value 4 = 3a
+value 5 = 3d
+value 6 = 04
+value 7 = 72
+value 8 = 76
+value 9 = e7
+value 10 = ab
+value 11 = 52
+value 12 = a9
+value 13 = 4b
+value 14 = a6
+value 15 = b9
+value 16 = f0
+value 17 = d9
+value 18 = 15
+value 19 = c3
+value 20 = 11
+value 21 = c1
+value 22 = c5
+value 23 = 16
+value 24 = 3c
+value 25 = 6c
+value 26 = 02
+value 27 = 09
+value 28 = 27
+value 29 = 14
+value 30 = 81
+value 31 = 7a
+value 32 = 64
+value 33 = 52
+duplicate 52 found at value 11
+Test 59 - number of tries: 33
+==========
+Test 60:
+value 1 = ed
+value 2 = 5a
+value 3 = 8e
+value 4 = 1a
+value 5 = 85
+value 6 = c7
+value 7 = 63
+value 8 = 85
+duplicate 85 found at value 5
+Test 60 - number of tries: 8
+==========
+Test 61:
+value 1 = 47
+value 2 = 0f
+value 3 = 74
+value 4 = ce
+value 5 = d7
+value 6 = 07
+value 7 = 96
+value 8 = 01
+value 9 = d3
+value 10 = 96
+duplicate 96 found at value 7
+Test 61 - number of tries: 10
+==========
+Test 62:
+value 1 = c7
+value 2 = 7d
+value 3 = 42
+value 4 = 0d
+value 5 = 8a
+value 6 = 67
+value 7 = f8
+value 8 = 22
+value 9 = 3a
+value 10 = 07
+value 11 = df
+value 12 = 61
+value 13 = 58
+value 14 = 0a
+value 15 = bf
+value 16 = 27
+value 17 = 00
+value 18 = 70
+value 19 = 6a
+value 20 = bd
+value 21 = 8e
+value 22 = 13
+value 23 = fa
+value 24 = 8b
+value 25 = 6b
+value 26 = 60
+value 27 = 09
+value 28 = 9c
+value 29 = ea
+value 30 = 9a
+value 31 = 86
+value 32 = e3
+value 33 = 57
+value 34 = 4a
+value 35 = 5c
+value 36 = 85
+value 37 = 23
+value 38 = 60
+duplicate 60 found at value 26
+Test 62 - number of tries: 38
+==========
+Test 63:
+value 1 = bc
+value 2 = ac
+value 3 = cb
+value 4 = 38
+value 5 = 34
+value 6 = 91
+value 7 = 5d
+value 8 = 44
+value 9 = fe
+value 10 = 19
+value 11 = d8
+value 12 = d6
+value 13 = 1b
+value 14 = 2e
+value 15 = 8d
+value 16 = 4b
+value 17 = 93
+value 18 = 29
+value 19 = eb
+value 20 = 38
+duplicate 38 found at value 4
+Test 63 - number of tries: 20
+==========
+Test 64:
+value 1 = 31
+value 2 = ea
+value 3 = bb
+value 4 = 90
+value 5 = 4b
+value 6 = a2
+value 7 = 23
+value 8 = 2a
+value 9 = c8
+value 10 = 06
+value 11 = e7
+value 12 = e3
+value 13 = 4a
+value 14 = 75
+value 15 = 28
+value 16 = 9a
+value 17 = d9
+value 18 = b5
+value 19 = d3
+value 20 = 62
+value 21 = 1e
+value 22 = ae
+value 23 = 09
+value 24 = 60
+value 25 = 31
+duplicate 31 found at value 1
+Test 64 - number of tries: 25
+==========
+Test 65:
+value 1 = 5c
+value 2 = ac
+value 3 = 15
+value 4 = db
+value 5 = 37
+value 6 = 90
+value 7 = 2d
+value 8 = 18
+value 9 = 71
+value 10 = a0
+value 11 = 2b
+value 12 = 42
+value 13 = 4a
+value 14 = 23
+value 15 = 43
+value 16 = af
+value 17 = c9
+value 18 = 51
+value 19 = fd
+value 20 = 93
+value 21 = 84
+value 22 = 89
+value 23 = b8
+value 24 = ed
+value 25 = e1
+value 26 = 37
+duplicate 37 found at value 5
+Test 65 - number of tries: 26
+==========
+Test 66:
+value 1 = 83
+value 2 = f2
+value 3 = cc
+value 4 = 0c
+value 5 = 22
+value 6 = 6e
+value 7 = 3b
+value 8 = e1
+value 9 = f8
+value 10 = 3d
+value 11 = 36
+value 12 = ac
+value 13 = a1
+value 14 = 65
+value 15 = 48
+value 16 = 6b
+value 17 = 93
+value 18 = 99
+value 19 = 3d
+duplicate 3d found at value 10
+Test 66 - number of tries: 19
+==========
+Test 67:
+value 1 = 08
+value 2 = a6
+value 3 = 74
+value 4 = 4d
+value 5 = 78
+value 6 = 43
+value 7 = 5b
+value 8 = cf
+value 9 = 33
+value 10 = 6f
+value 11 = 66
+value 12 = 2b
+value 13 = 4b
+value 14 = 50
+value 15 = e3
+value 16 = f7
+value 17 = 6a
+value 18 = 65
+value 19 = 69
+value 20 = 88
+value 21 = f0
+value 22 = 0b
+value 23 = 15
+value 24 = 2c
+value 25 = 68
+value 26 = f6
+value 27 = e3
+duplicate e3 found at value 15
+Test 67 - number of tries: 27
+==========
+Test 68:
+value 1 = 65
+value 2 = 8b
+value 3 = f7
+value 4 = 93
+value 5 = 80
+value 6 = 12
+value 7 = 10
+value 8 = b8
+value 9 = e0
+value 10 = 94
+value 11 = 6b
+value 12 = 83
+value 13 = e1
+value 14 = 83
+duplicate 83 found at value 12
+Test 68 - number of tries: 14
+==========
+Test 69:
+value 1 = d8
+value 2 = 2d
+value 3 = 50
+value 4 = 19
+value 5 = 14
+value 6 = dc
+value 7 = d8
+duplicate d8 found at value 1
+Test 69 - number of tries: 7
+==========
+Test 70:
+value 1 = c0
+value 2 = d3
+value 3 = fd
+value 4 = ff
+value 5 = e8
+value 6 = 31
+value 7 = e9
+value 8 = fa
+value 9 = 0d
+value 10 = 9a
+value 11 = 12
+value 12 = 55
+value 13 = c5
+value 14 = 78
+value 15 = 39
+value 16 = df
+value 17 = 71
+value 18 = ab
+value 19 = 03
+value 20 = c7
+value 21 = 6d
+value 22 = 22
+value 23 = 95
+value 24 = c7
+duplicate c7 found at value 20
+Test 70 - number of tries: 24
+==========
+Test 71:
+value 1 = 11
+value 2 = 5b
+value 3 = c3
+value 4 = dd
+value 5 = ab
+value 6 = 44
+value 7 = b8
+value 8 = 06
+value 9 = da
+value 10 = ff
+value 11 = b5
+value 12 = f1
+value 13 = 62
+value 14 = 72
+value 15 = b7
+value 16 = f4
+value 17 = 62
+duplicate 62 found at value 13
+Test 71 - number of tries: 17
+==========
+Test 72:
+value 1 = e7
+value 2 = d6
+value 3 = 44
+value 4 = 5a
+value 5 = 7c
+value 6 = 84
+value 7 = 74
+value 8 = 55
+value 9 = 2a
+value 10 = 8e
+value 11 = 7c
+duplicate 7c found at value 5
+Test 72 - number of tries: 11
+==========
+Test 73:
+value 1 = 67
+value 2 = 5d
+value 3 = e2
+value 4 = df
+value 5 = 10
+value 6 = e9
+value 7 = 1d
+value 8 = 2c
+value 9 = 34
+value 10 = b0
+value 11 = 8c
+value 12 = d2
+value 13 = ac
+value 14 = 57
+value 15 = 93
+value 16 = e0
+value 17 = 27
+value 18 = b4
+value 19 = f2
+value 20 = 4e
+value 21 = d8
+value 22 = 95
+value 23 = 03
+value 24 = d4
+value 25 = 67
+duplicate 67 found at value 1
+Test 73 - number of tries: 25
+==========
+Test 74:
+value 1 = 61
+value 2 = fb
+value 3 = 32
+value 4 = ce
+value 5 = ea
+value 6 = 1c
+value 7 = f6
+value 8 = 4a
+value 9 = 73
+value 10 = 23
+value 11 = a1
+value 12 = 8f
+value 13 = c0
+value 14 = f8
+value 15 = 62
+value 16 = 4b
+value 17 = 9e
+value 18 = 76
+value 19 = 2f
+value 20 = cc
+value 21 = 1a
+value 22 = 88
+value 23 = 71
+value 24 = e1
+value 25 = 4e
+value 26 = db
+value 27 = 5e
+value 28 = 61
+duplicate 61 found at value 1
+Test 74 - number of tries: 28
+==========
+Test 75:
+value 1 = 40
+value 2 = 90
+value 3 = 85
+value 4 = 83
+value 5 = 53
+value 6 = 22
+value 7 = ea
+value 8 = 16
+value 9 = 69
+value 10 = 49
+value 11 = 72
+value 12 = 69
+duplicate 69 found at value 9
+Test 75 - number of tries: 12
+==========
+Test 76:
+value 1 = 8c
+value 2 = b6
+value 3 = 89
+value 4 = ed
+value 5 = a1
+value 6 = 73
+value 7 = eb
+value 8 = 57
+value 9 = e4
+value 10 = 5d
+value 11 = 19
+value 12 = 48
+value 13 = 3f
+value 14 = b3
+value 15 = b1
+value 16 = d5
+value 17 = 8f
+value 18 = 81
+value 19 = e9
+value 20 = 54
+value 21 = 57
+duplicate 57 found at value 8
+Test 76 - number of tries: 21
+==========
+Test 77:
+value 1 = aa
+value 2 = 2f
+value 3 = 39
+value 4 = 83
+value 5 = 22
+value 6 = db
+value 7 = 5a
+value 8 = c3
+value 9 = 59
+value 10 = c8
+value 11 = e0
+value 12 = e4
+value 13 = 7d
+value 14 = b4
+value 15 = a8
+value 16 = 2a
+value 17 = 71
+value 18 = 9d
+value 19 = 71
+duplicate 71 found at value 17
+Test 77 - number of tries: 19
+==========
+Test 78:
+value 1 = 73
+value 2 = 3d
+value 3 = c2
+value 4 = d3
+value 5 = 19
+value 6 = b3
+value 7 = 5e
+value 8 = 70
+value 9 = cc
+value 10 = e2
+value 11 = a1
+value 12 = 8e
+value 13 = 7e
+value 14 = 3d
+duplicate 3d found at value 2
+Test 78 - number of tries: 14
+==========
+Test 79:
+value 1 = 37
+value 2 = 50
+value 3 = b2
+value 4 = 24
+value 5 = df
+value 6 = 4c
+value 7 = 0f
+value 8 = 88
+value 9 = 33
+value 10 = dc
+value 11 = 49
+value 12 = a7
+value 13 = 45
+value 14 = 9c
+value 15 = d2
+value 16 = b6
+value 17 = 5a
+value 18 = 72
+value 19 = 5d
+value 20 = 6c
+value 21 = c4
+value 22 = 09
+value 23 = f1
+value 24 = 15
+value 25 = 82
+value 26 = f2
+value 27 = c6
+value 28 = 5d
+duplicate 5d found at value 19
+Test 79 - number of tries: 28
+==========
+Test 80:
+value 1 = 79
+value 2 = a0
+value 3 = 27
+value 4 = 19
+value 5 = 9d
+value 6 = 06
+value 7 = 2f
+value 8 = 11
+value 9 = 98
+value 10 = cd
+value 11 = 24
+value 12 = 7a
+value 13 = 4d
+value 14 = 5f
+value 15 = ad
+value 16 = 3b
+value 17 = d2
+value 18 = 8f
+value 19 = 29
+value 20 = 01
+value 21 = 1e
+value 22 = e4
+value 23 = 07
+value 24 = 92
+value 25 = 73
+value 26 = 2c
+value 27 = 3c
+value 28 = 89
+value 29 = 6e
+value 30 = 47
+value 31 = 71
+value 32 = af
+value 33 = 30
+value 34 = f3
+value 35 = d5
+value 36 = 79
+duplicate 79 found at value 1
+Test 80 - number of tries: 36
+==========
+Test 81:
+value 1 = 51
+value 2 = 3f
+value 3 = 5f
+value 4 = 2d
+value 5 = 24
+value 6 = 02
+value 7 = e8
+value 8 = ad
+value 9 = bb
+value 10 = 40
+value 11 = a5
+value 12 = e7
+value 13 = 60
+value 14 = 7e
+value 15 = 4e
+value 16 = a0
+value 17 = c2
+value 18 = a4
+value 19 = de
+value 20 = 39
+value 21 = d2
+value 22 = 0d
+value 23 = f7
+value 24 = a9
+value 25 = c8
+value 26 = 85
+value 27 = db
+value 28 = 50
+value 29 = 02
+duplicate 02 found at value 6
+Test 81 - number of tries: 29
+==========
+Test 82:
+value 1 = 54
+value 2 = 38
+value 3 = 25
+value 4 = 04
+value 5 = fc
+value 6 = fb
+value 7 = 6b
+value 8 = ab
+value 9 = 11
+value 10 = 52
+value 11 = 84
+value 12 = cf
+value 13 = fa
+value 14 = aa
+value 15 = 3f
+value 16 = 9a
+value 17 = 66
+value 18 = 30
+value 19 = 80
+value 20 = aa
+duplicate aa found at value 14
+Test 82 - number of tries: 20
+==========
+Test 83:
+value 1 = 00
+value 2 = fd
+value 3 = ec
+value 4 = 84
+value 5 = 38
+value 6 = 70
+value 7 = 4a
+value 8 = 94
+value 9 = e7
+value 10 = 1e
+value 11 = c5
+value 12 = 81
+value 13 = d7
+value 14 = 3d
+value 15 = d6
+value 16 = 5e
+value 17 = b9
+value 18 = 91
+value 19 = ad
+value 20 = d2
+value 21 = 9f
+value 22 = d2
+duplicate d2 found at value 20
+Test 83 - number of tries: 22
+==========
+Test 84:
+value 1 = 9a
+value 2 = fa
+value 3 = 19
+value 4 = 70
+value 5 = c6
+value 6 = 08
+value 7 = cb
+value 8 = 57
+value 9 = da
+value 10 = 42
+value 11 = ce
+value 12 = 0f
+value 13 = c6
+duplicate c6 found at value 5
+Test 84 - number of tries: 13
+==========
+Test 85:
+value 1 = d9
+value 2 = e7
+value 3 = 52
+value 4 = fc
+value 5 = 91
+value 6 = 9d
+value 7 = 24
+value 8 = e1
+value 9 = 60
+value 10 = 58
+value 11 = a0
+value 12 = 9e
+value 13 = 88
+value 14 = a3
+value 15 = ce
+value 16 = 5d
+value 17 = 2b
+value 18 = a2
+value 19 = 36
+value 20 = d0
+value 21 = c4
+value 22 = 24
+duplicate 24 found at value 7
+Test 85 - number of tries: 22
+==========
+Test 86:
+value 1 = ef
+value 2 = 0d
+value 3 = 26
+value 4 = 19
+value 5 = 61
+value 6 = f4
+value 7 = f7
+value 8 = 8d
+value 9 = 8d
+duplicate 8d found at value 8
+Test 86 - number of tries: 9
+==========
+Test 87:
+value 1 = 7b
+value 2 = 50
+value 3 = 76
+value 4 = 73
+value 5 = 02
+value 6 = e0
+value 7 = c1
+value 8 = 86
+value 9 = ce
+value 10 = 18
+value 11 = d3
+value 12 = 53
+value 13 = e9
+value 14 = d3
+duplicate d3 found at value 11
+Test 87 - number of tries: 14
+==========
+Test 88:
+value 1 = 2c
+value 2 = 17
+value 3 = a5
+value 4 = 2c
+duplicate 2c found at value 1
+Test 88 - number of tries: 4
+==========
+Test 89:
+value 1 = 0e
+value 2 = 22
+value 3 = 3c
+value 4 = 3e
+value 5 = 19
+value 6 = 31
+value 7 = e3
+value 8 = 85
+value 9 = 0a
+value 10 = e6
+value 11 = de
+value 12 = b2
+value 13 = 4a
+value 14 = 6e
+value 15 = 15
+value 16 = 58
+value 17 = 73
+value 18 = b5
+value 19 = 64
+value 20 = f4
+value 21 = 85
+duplicate 85 found at value 8
+Test 89 - number of tries: 21
+==========
+Test 90:
+value 1 = ae
+value 2 = a0
+value 3 = 48
+value 4 = 31
+value 5 = c1
+value 6 = 9c
+value 7 = 16
+value 8 = c7
+value 9 = 02
+value 10 = 71
+value 11 = cb
+value 12 = ab
+value 13 = f4
+value 14 = 1f
+value 15 = 8d
+value 16 = 80
+value 17 = 07
+value 18 = a5
+value 19 = f1
+value 20 = 27
+value 21 = cd
+value 22 = 41
+value 23 = 84
+value 24 = 2b
+value 25 = 9f
+value 26 = d7
+value 27 = 94
+value 28 = 29
+value 29 = dd
+value 30 = 0c
+value 31 = fe
+value 32 = 2f
+value 33 = fb
+value 34 = 02
+duplicate 02 found at value 9
+Test 90 - number of tries: 34
+==========
+Test 91:
+value 1 = 88
+value 2 = 24
+value 3 = 79
+value 4 = 29
+value 5 = 7d
+value 6 = bd
+value 7 = 49
+value 8 = 79
+duplicate 79 found at value 3
+Test 91 - number of tries: 8
+==========
+Test 92:
+value 1 = 09
+value 2 = e4
+value 3 = dd
+value 4 = 4c
+value 5 = ef
+value 6 = 76
+value 7 = 53
+value 8 = 97
+value 9 = 9e
+value 10 = 9b
+value 11 = f9
+value 12 = b8
+value 13 = 96
+value 14 = 99
+value 15 = d5
+value 16 = 17
+value 17 = 9d
+value 18 = 56
+value 19 = 3b
+value 20 = 81
+value 21 = d5
+duplicate d5 found at value 15
+Test 92 - number of tries: 21
+==========
+Test 93:
+value 1 = c2
+value 2 = e6
+value 3 = c6
+value 4 = b0
+value 5 = 22
+value 6 = 9d
+value 7 = 78
+value 8 = ea
+value 9 = d6
+value 10 = 25
+value 11 = a8
+value 12 = dd
+value 13 = 4a
+value 14 = f4
+value 15 = b5
+value 16 = b4
+value 17 = ea
+duplicate ea found at value 8
+Test 93 - number of tries: 17
+==========
+Test 94:
+value 1 = 8a
+value 2 = ae
+value 3 = 36
+value 4 = 4c
+value 5 = 3a
+value 6 = 14
+value 7 = ff
+value 8 = 82
+value 9 = 7d
+value 10 = 35
+value 11 = 80
+value 12 = 73
+value 13 = 2a
+value 14 = d6
+value 15 = 4a
+value 16 = f1
+value 17 = 6c
+value 18 = e0
+value 19 = de
+value 20 = 56
+value 21 = 9c
+value 22 = 8b
+value 23 = fb
+value 24 = 38
+value 25 = 1a
+value 26 = c8
+value 27 = ee
+value 28 = f2
+value 29 = 65
+value 30 = fa
+value 31 = 01
+value 32 = dd
+value 33 = 8a
+duplicate 8a found at value 1
+Test 94 - number of tries: 33
+==========
+Test 95:
+value 1 = 0a
+value 2 = 1b
+value 3 = 13
+value 4 = 34
+value 5 = f9
+value 6 = 92
+value 7 = 69
+value 8 = 11
+value 9 = b4
+value 10 = 44
+value 11 = ae
+value 12 = cd
+value 13 = 9f
+value 14 = 1d
+value 15 = c8
+value 16 = 6d
+value 17 = 6f
+value 18 = 3e
+value 19 = 3a
+value 20 = 9a
+value 21 = 37
+value 22 = 56
+value 23 = fb
+value 24 = 14
+value 25 = 58
+value 26 = 32
+value 27 = 9a
+duplicate 9a found at value 20
+Test 95 - number of tries: 27
+==========
+Test 96:
+value 1 = c4
+value 2 = a3
+value 3 = 2d
+value 4 = 3c
+value 5 = cc
+value 6 = a5
+value 7 = 4f
+value 8 = af
+value 9 = 1f
+value 10 = 26
+value 11 = ac
+value 12 = 2f
+value 13 = ab
+value 14 = dc
+value 15 = 3d
+value 16 = 0d
+value 17 = 24
+value 18 = ab
+duplicate ab found at value 13
+Test 96 - number of tries: 18
+==========
+Test 97:
+value 1 = bb
+value 2 = 75
+value 3 = 23
+value 4 = f0
+value 5 = d5
+value 6 = 29
+value 7 = 29
+duplicate 29 found at value 6
+Test 97 - number of tries: 7
+==========
+Test 98:
+value 1 = 9a
+value 2 = 3d
+value 3 = 54
+value 4 = 91
+value 5 = e8
+value 6 = a8
+value 7 = 98
+value 8 = 21
+value 9 = 4a
+value 10 = 7e
+value 11 = 55
+value 12 = 76
+value 13 = 4c
+value 14 = 18
+value 15 = be
+value 16 = 6f
+value 17 = ae
+value 18 = c3
+value 19 = 39
+value 20 = 47
+value 21 = 55
+duplicate 55 found at value 11
+Test 98 - number of tries: 21
+==========
+Test 99:
+value 1 = 97
+value 2 = e9
+value 3 = b7
+value 4 = b0
+value 5 = 3e
+value 6 = a9
+value 7 = a3
+value 8 = 6d
+value 9 = 97
+duplicate 97 found at value 1
+Test 99 - number of tries: 9
+==========
+Test 100:
+value 1 = 48
+value 2 = 39
+value 3 = 58
+value 4 = af
+value 5 = 04
+value 6 = 51
+value 7 = a8
+value 8 = fc
+value 9 = 8e
+value 10 = 50
+value 11 = a1
+value 12 = f3
+value 13 = 60
+value 14 = 25
+value 15 = bd
+value 16 = 40
+value 17 = 8d
+value 18 = 77
+value 19 = b7
+value 20 = 3c
+value 21 = 46
+value 22 = c3
+value 23 = d0
+value 24 = a4
+value 25 = 40
+duplicate 40 found at value 16
+Test 100 - number of tries: 25
+==========
+Total number of attempts in all tests = 2264
+Average number of attempts per duplicate = 22
